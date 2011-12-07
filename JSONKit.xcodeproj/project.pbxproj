@@ -10,7 +10,7 @@
 		F6803527148F6D22008A51BA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6803526148F6D22008A51BA /* Foundation.framework */; };
 		F6AE0204148F825C0004909F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6AE0203148F825C0004909F /* Cocoa.framework */; };
 		F6AE0218148F82FC0004909F /* JSONKit.h in Headers */ = {isa = PBXBuildFile; fileRef = F6AE0216148F82FC0004909F /* JSONKit.h */; };
-		F6AE0219148F82FC0004909F /* JSONKit.h in Headers */ = {isa = PBXBuildFile; fileRef = F6AE0216148F82FC0004909F /* JSONKit.h */; };
+		F6AE0219148F82FC0004909F /* JSONKit.h in Headers */ = {isa = PBXBuildFile; fileRef = F6AE0216148F82FC0004909F /* JSONKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F6AE021A148F82FC0004909F /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = F6AE0217148F82FC0004909F /* JSONKit.m */; };
 		F6AE021B148F82FC0004909F /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = F6AE0217148F82FC0004909F /* JSONKit.m */; };
 /* End PBXBuildFile section */
